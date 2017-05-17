@@ -125,15 +125,7 @@ $profitmag_settings = profit_get_theme_options();
                                     <?php echo esc_html( $profitmag_settings['profitmag_copyright_setting'] ); ?>
                             <?php endif; ?>
                     </p>
-                    <div class="site-info">
-                        <a href="<?php echo esc_url( __( 'https://wordpress.org/', 'profitmag' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'profitmag' ), 'WordPress' ); ?></a>
-                        <span class="sep"> | </span>
-                        <?php printf( esc_html__( '%1$s by %2$s', 'profitmag' ), 'Profitmag', '<a href="http://rigorousthemes.com/" rel="designer">Rigorous Themes</a>' ); ?>
-                    </div><!-- .site-info -->
-                    
                 </div>
-                
-
         </div><!-- footer-wrapper-->
 	</footer><!-- #colophon -->
 </div><!-- #page -->

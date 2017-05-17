@@ -156,7 +156,7 @@ msgid "Tagged %1$s"
 msgstr ""
 
 #: content-search.php:72 content.php:68
-msgid "Leave a comment"
+msgid "Bình Luận"
 msgstr ""
 
 #: content-search.php:72 content.php:68
